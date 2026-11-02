@@ -1,0 +1,6 @@
+{
+  "name": "CareerGap AI - 취업 역량 갭 분석 & 커리어 로드맵",
+  "description": "희망 직무 요구 역량과 현재 보유 역량을 정밀 비교 분석하고, 부족한 자격증·기술 추천, 단계별 맞춤 학습 계획 및 AI 실시간 피드백을 제공하는 맞춤형 취업 역량 코칭 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
